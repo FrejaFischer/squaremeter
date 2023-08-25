@@ -1,0 +1,11 @@
+body {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+#box {
+  align-self: center;
+  width: 30em;
+  height: 10em;
+  background-color: beige;
+}
